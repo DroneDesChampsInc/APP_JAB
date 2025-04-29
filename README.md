@@ -7,7 +7,7 @@ application de suivi de mission JAB
 │   │── main.css               # Style principal  
 │   │── config.css             # Styles spécifiques au mode configuration  
 │   │── execution.css          # Styles spécifiques au mode exécution  
-│── /scripts
+│── /src
 │   │── display.js             # Gestion du display des layers de popup  
 │   │── main.js                # Point d'entrée principal  
 │   │── map.js                 # Initialisation de la carte Leaflet  
